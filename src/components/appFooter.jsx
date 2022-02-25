@@ -8,7 +8,7 @@ const AppFooter = () => {
                 <div className={"container mx-auto flex flex-col flex-wrap items-center justify-between font-mono"}>
                     <ul className={"flex-col mx-auto text-white text-center p-3"}>
                     <li><a className={"p-2 cursor-pointer hover:underline"} href="https://reactjs.org/" target="_blank" rel="noreferrer">Created Using ReactJS</a></li>
-                    <li><a className={"p-2 cursor-pointer hover:underline"} href="https://tailwindcss.com/" target="_blank" rel="noreferrer">Styled using Tailwind</a></li>
+                    <li><a className={"p-2 cursor-pointer hover:underline"} href="https://tailwindcss.com/" target="_blank" rel="noreferrer">Styled using TailwindCSS</a></li>
                     <li><a className={"p-2 cursor-pointer hover:underline"} href="https://members-api.parliament.uk/index.html" target="_blank" rel="noreferrer">Data provided by Parliament API</a></li>
                     </ul>
                     <ul className={"flex mx-auto text-white text-center"}>
