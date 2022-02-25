@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/071d4826-bb3c-46de-a971-811082c1e77f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/HM-GOV-APP",
+    "appService.deploySubpath": "."
+}
